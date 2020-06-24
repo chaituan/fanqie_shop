@@ -1,0 +1,5 @@
+{
+    "require": {
+        "chriskacerguis/codeigniter-restserver": "^3.1"
+    }
+}
