@@ -23,7 +23,9 @@ if (!-e $request_filename) {
 2.  在浏览器执行 ：您的域名.com/install  即可安装。
 
 
-### [帮助和演示文档](https://www.kancloud.cn/chaituan/wiki/1766353)
+
+### [系统安装](https://www.kancloud.cn/chaituan/wiki/1766354) |[在线演示](https://www.kancloud.cn/chaituan/wiki/1775076)|[二开文档](https://www.kancloud.cn/chaituan/wiki/1771081)
+
 开源版仅用于学习交流，开源不易请点个star，感谢！
 
 
