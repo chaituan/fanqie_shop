@@ -1,8 +1,8 @@
 # 番茄社区多门店系统
 
 #### 介绍
-番茄社区多门店是一款帮助多商家线上盈利的工具，可做社区门店，也可以做社区团购，还可以做自营连锁店，内含小程序和公众号两个端，同一个后台管理。<br>
-主要功能模块：商家入驻，合伙人推广，区域定位，分销裂变，积分商城，自定义海报
+番茄社区多门店是一款帮助多商家线上盈利的工具，可做社区门店，也可以做社区团购，还可以做自营连锁店，商业版内含小程序和公众号两个端源码，同一个后台管理。<br>
+主要功能模块：商家入住，合伙人推广，区域定位，分销裂变，积分商城，自定义海报
 
 #### 软件架构
 本系统使用的是前后端分离的开发方式，后端采用国外优雅的CodeIgniter框架，小巧灵活安全性高非常容易上手，后台UI使用极简的LAYUI。<br>
@@ -24,10 +24,9 @@ if (!-e $request_filename) {
 
 
 
-### [系统安装](https://www.kancloud.cn/chaituan/wiki/1766354) |[在线演示](https://www.kancloud.cn/chaituan/wiki/1775076)|[二开文档](https://www.kancloud.cn/chaituan/wiki/1771081)
+### [系统安装](https://www.chaituans.com/news/id-21.html) |[在线演示](https://www.chaituans.com/news/id-21.html)|[二开文档](https://www.chaituans.com/news/id-21.html)
 
 开源版仅用于学习交流，开源不易请点个star，感谢！
-
 
 #### 部分截图
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0623/104412_7fe6ee0b_430822.png "屏幕截图.png")
